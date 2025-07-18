@@ -11,9 +11,9 @@ import random
 # =============================================================================
 # CONFIGURATION - UPDATE THESE VALUES
 # =============================================================================
-GMAIL_USER = "your_email@gmail.com"  # Your Gmail address
-GMAIL_PASSWORD = "your_app_password"  # Your 16-character app password
-RECIPIENT = "recipient@gmail.com"    # Where to send the news
+GMAIL_USER = "vanessa.lee.clark@gmail.com"  # Your Gmail address
+GMAIL_PASSWORD = "liwr ddik qjpk rykm"  # Your 16-character app password
+RECIPIENT = "vanessa.lee.clark@gmail.com"    # Where to send the news
 
 # =============================================================================
 # NEWS SOURCES - Reliable RSS feeds
